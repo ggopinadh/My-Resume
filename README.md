@@ -12,8 +12,8 @@
    
 ### *Educational Qualifications:-*
 
-Qualification | Institute                | University | Year     | Percentage
---------------|--------------------------|------------|----------|-----------
+|Qualification | Institute                | University | Year     | Percentage|
+|--------------|--------------------------|------------|----------|-----------|
 BTech*        |MIC Collge                |JNTUK       | 2018-2022| 94.7%
 Intermediate  |JRC College               |BIE         | 2016-2018| 96.8%
 SSC           |SRI TAKSHASILA H S SCHOOL |SSC         | 2018     | 98%
