@@ -29,7 +29,7 @@ SSC           |SRI TAKSHASILA H S SCHOOL |SSC         | 2018     | 98%
   - Telugu
   - English
   
-### Acheievements:-*
+### *Acheievements:-*
   - Got **Problem Solving Through C Programming** Certificate by **NPTEL**.
   - Got **Python Programming** Certificate by **NPTEL**.
   - Participation certificate in Tech Hunt Conducted by College.
