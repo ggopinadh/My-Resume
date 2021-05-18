@@ -11,11 +11,11 @@
      - **Andhrapradesh**
    
 ### *Educational Qualifications:-*
-Qualification | University | Year     | Percentage
---------------|------------|----------|-----------
-BTech*        |JNTUK       | 2018-2022| 94.7%
-Intermediate  |BIE         | 2016-2018| 96.8%
-SSC           |SSC         | 2018     | 98%
+Qualification | Institute                | University | Year     | Percentage
+--------------|--------------------------|------------|----------|-----------
+BTech*        |MIC Collge                |JNTUK       | 2018-2022| 94.7%
+Intermediate  |JRC College               |BIE         | 2016-2018| 96.8%
+SSC           |SRI TAKSHASILA H S SCHOOL |SSC         | 2018     | 98%
 * *indicates Upto 4th semester
 
 ### *Skills:-*
@@ -30,11 +30,11 @@ SSC           |SSC         | 2018     | 98%
   - English
   
 ### Acheievements:-*
-  - Got 'Problem Solving Through C Programming' Certificate by NPTEL.
-  - Got 'Python Programming' Certificate by NPTEL.
+  - Got **Problem Solving Through C Programming** Certificate by **NPTEL**.
+  - Got **Python Programming** Certificate by **NPTEL**.
   - Participation certificate in Tech Hunt Conducted by College.
-  - Got 'Android App Development by Using Android Studio' Certificate by APSSDC.
-  - Participated on World Guiness Book Record Event on Python Programming Conducted by GUVI.
+  - Got **Android App Development by Using Android Studio** Certificate by **APSSDC**.
+  - Participated on **World Guiness Book Record Event on Python Programming** Conducted by **GUVI**.
   
 ### *Hobbies:-*
   - Playing Games
@@ -47,4 +47,4 @@ SSC           |SSC         | 2018     | 98%
   - Hardworking Nature
   
 ### *Goals:-*
-  - I want to become a 'Good Software Engineer' in a 'Highly Reputed Company'.
+  - I want to become a Good Software Engineer in a Highly Reputed Company.
