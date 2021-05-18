@@ -12,6 +12,7 @@
    
 ### *Educational Qualifications:-*
 
+
 |Qualification | Institute                | University | Year     | Percentage|
 |--------------|--------------------------|------------|----------|-----------|
 BTech*        |MIC Collge                |JNTUK       | 2018-2022| 94.7%
