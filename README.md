@@ -10,6 +10,7 @@
      - **Vatsavai(mdl),Krishna(dist)**
      - **Andhrapradesh**
    
+
 ### *Educational Qualifications:-*
 
 
