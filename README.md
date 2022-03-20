@@ -1,5 +1,8 @@
 # *Resume*
 ------------------------------------------------
+# *My Digital Resume* 
+- Click here: **(https://ggopinadh.github.io/My-Resume/)**
+------------------------------------------------
 # *Name : Goditala Gopinadh*
 ------------------------------------------------
 ### *Personal Details:-*
